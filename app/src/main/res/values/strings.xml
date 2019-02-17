@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Transl8</string>
+    <string name="translation_page_constant_text">Here you go: </string>
+    <string name="loading">Loading...</string>
+    <string name="tranlation_page_button">Go Again</string>
+    <string name="input_page_constant_text">Help me say: </string>
+    <string name="input_page_button">Translate</string>
+    <string name="edit_text_hint">Enter text here</string>
+    <string name="choose_language_textView">Hello!</string>
+    <string name="choose_language_textView2">What can I translate for you?</string>
+    <string name="choose_language_textView3">Choose your preferred language below</string>
+    <string name="language_key">EN - English, FR - French, HA - Hausa, DE - German, IG - Igbo,
+     ES - Spanish, YO - Yoruba, IT - Italian</string>
+    <string name="translate_from">Translate from: </string>
+    <string name="translate_to">Translate to: </string>
+    <string name="choose_language_button">GO!</string>
+    <string name="label_error_text">Error</string>
+
+    <string-array name="language_array">
+        <item>EN</item>
+        <item>FR</item>
+        <item>HA</item>
+        <item>DE</item>
+        <item>IG</item>
+        <item>ES</item>
+        <item>YO</item>
+        <item>IT</item>
+    </string-array>
+</resources>
